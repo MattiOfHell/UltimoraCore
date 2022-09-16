@@ -1,0 +1,6 @@
+name: UltimoraCore
+version: 1.0
+main: me.mattiofhell.Main
+api-version: 1.19
+author: MattiOfHell
+description: Plugin per il server Vanilla Ultimora.
